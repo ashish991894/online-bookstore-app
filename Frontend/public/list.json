@@ -1,0 +1,94 @@
+[
+	{
+		"id":1,
+		"name":"Story Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+
+	{
+		"id":2,
+		"name":"Novel ",
+		"title":"The Crown of Frozen Wraiths",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-psd/realistic-poster-education-template-design_23-2149361018.jpg?t=st=1715107942~exp=1715111542~hmac=4d83e35d4e3d7ce43d03b61d5c0e7e362cadfd783f0ac01d164d5dd9528584a4&w=740"
+	},
+
+	{
+		"id":3,
+		"name":"Science Book",
+		"title":"The Science of Everyday Phenomena",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-vector/science-poster-design-with-laboratory-supplies-watercolor-illustration_83728-2494.jpg?t=st=1715108270~exp=1715111870~hmac=39c4df77b7edb34338b80bd181e38458d456fd79527a035249cac3098c429627&w=740"
+	},
+	{
+		"id":4,
+		"name":"Story Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":5,
+		"name":"Story Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":6,
+		"name":"Story Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":7,
+		"name":"Story Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Free",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":8,
+		"name":"food Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":0,
+		"category":"Food",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":9,
+		"name":"GK Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":100,
+		"category":"General Knowlwdge",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":10,
+		"name":"Maths Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":200,
+		"category":"Math",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	},
+	{
+		"id":11,
+		"name":"Music Book",
+		"title":"Beyond the Quantum Horizon",
+		"price":100,
+		"category":"Music",
+		"image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1715107558~exp=1715111158~hmac=ee13ef31fa3dbd42e00272da89be2d34a180e49954f247b812b4df864c7cba48&w=740"
+	}
+
+
+]
